@@ -1,0 +1,126 @@
+
+body{
+    padding: 20px;
+}
+.banner_img{
+   padding: 80px 0;
+
+}
+
+.c_btn1{
+    margin-left: 68px;
+    margin-top: 10px;
+}
+
+.flip,.panel{
+    background-color: gray;
+    padding:5px;
+    font-size: 20px;
+    text-align: center;
+    border: 1px solid rgb(180, 165, 165);
+    border-radius: 4px;
+    cursor: pointer;
+    
+}
+.panel{
+    padding:50px;
+    display: none;
+}
+/*  */
+.flip1,.panel1{
+    background-color: rgb(147, 133, 133);
+    padding:5px;
+    font-size: 20px;
+    text-align: center;
+    border: 1px solid rgb(180, 165, 165);
+    border-radius: 4px;
+    cursor: pointer;
+    
+}
+.panel1{
+    padding:50px;
+    /* display: none; */
+}
+
+/*  */
+.flip2,.panel2{
+    background-color: rgb(147, 133, 133);
+    padding:5px;
+    font-size: 20px;
+    text-align: center;
+    border: 1px solid rgb(180, 165, 165);
+    border-radius: 4px;
+    cursor: pointer;
+    
+}
+.panel2{
+    padding:50px;
+    display: none;
+}
+
+
+/*  */
+
+.bbox{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    background-color: red;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
+.bbox1{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    background-color: rgb(165, 25, 25);
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
+
+.bbox2{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    background-color: rgb(255, 0, 119);
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
+.bbox3{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    background-color: rgb(80, 2, 39);
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
+.bbox4{
+    position: absolute;
+    width: 180px;
+    height: 120px;
+    background-color: rgb(177, 53, 111);
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
+
+/*  */
+
+.flip3,.panel3{
+    background-color: rgb(147, 133, 133);
+    padding:5px;
+    font-size: 20px;
+    text-align: center;
+    border: 1px solid rgb(180, 165, 165);
+    border-radius: 4px;
+    cursor: pointer;
+
+}
+.panel3{
+    padding:100px;
+    display: none;
+}
